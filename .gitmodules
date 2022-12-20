@@ -1,0 +1,4 @@
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend
+	branch = 15.0
